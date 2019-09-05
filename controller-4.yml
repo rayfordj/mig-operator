@@ -8,3 +8,5 @@ spec:
   migration_velero: true
   migration_controller: true
   migration_ui: true
+
+  snapshot_tag: htb2

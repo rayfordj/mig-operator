@@ -9,6 +9,8 @@ spec:
   migration_controller: false
   migration_ui: false
 
+  snapshot_tag: htb2
+
   mig_ui_config_namespace: openshift-migration
 
   #To install the controller on Openshift 3 you will need to configure the API endpoint:
